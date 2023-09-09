@@ -1,0 +1,36 @@
+Home Page
+
+Welcome to our online Chat Platform. Quickly join the conversation by logging in, registering, or using the static user "Anna" (password: "anna1234").
+
+How to Use
+
+Click 'Login' if you have an account.
+Click 'Register' to create a new account.
+Enter "Anna" and "anna1234" if you want quick access with our static profile.
+Registration Page
+
+Join our community by filling out the registration form below. Existing users can login, or use the static profile "Anna" (password: "anna1234").
+
+How to Use
+
+Enter your details in the form.
+Click 'Submit' to create your account.
+Return to the Home Page to login.
+Login Page
+
+Log in below to continue. If you're new, please register. For immediate access, use "Anna" with the password "anna1234".
+
+How to Use
+
+Enter your username and password.
+Click 'Login' to access the chat page.
+Use "Anna" and "anna1234" for quick access.
+Chat Page
+
+Welcome to the Chat Page. Please respect all users while sharing ideas and asking questions. If using "Anna", consider creating your own account for a personal experience.
+
+How to Use
+
+Type your message in the text box.
+Press the button to send the message.
+Use the 'Logout' button to exit the chat.
