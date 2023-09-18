@@ -1,6 +1,6 @@
 # KNN Vector Classifier
 
-##General description of the KNN algorithm
+## General description of the KNN algorithm
 
 the k-nearest neighbors algorithm, is a supervised learning classifier which uses proximity to make classifications
 or predictions about the grouping of an individual data point.
