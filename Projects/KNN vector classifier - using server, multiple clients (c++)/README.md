@@ -13,7 +13,7 @@ of the K nearest neighbors of the vector, calculated by a certain distance metri
 
 ## Compilation and run
 After you clone the files to a folder that is convenient for you,
-open a terminal with a path to that folder, and write "make" in order to compile
+open a terminal with a path to the project's folder, and write "make" in order to compile
 the program. </br>
 Then, write in the terminal "./server.out", then the port number
 the server should be listening to. <span style="color: orange;">for example: ./server.out 12345.</span> </br>
