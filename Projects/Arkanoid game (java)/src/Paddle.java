@@ -22,7 +22,6 @@ public class Paddle implements Sprite, Collidable {
 
    public void moveLeft() {
 	   if (this.keyboard.isPressed(KeyboardSensor.LEFT_KEY)) {
-		   System.out.println("the 'left arrow' key is pressed");
 		   Point newUpperLeft = new Point (this.collisionRectangle.getUpperLeft().getX() - speed
 				   , this.collisionRectangle.getUpperLeft().getY());
 		   this.collisionRectangle = new Rectangle (newUpperLeft, this.collisionRectangle.getWidth()
@@ -31,7 +30,6 @@ public class Paddle implements Sprite, Collidable {
    }
    public void moveRight() {
 	   if (this.keyboard.isPressed(KeyboardSensor.RIGHT_KEY)) {
-		   System.out.println("the 'right arrow' key is pressed");
 		   Point newUpperLeft = new Point (this.collisionRectangle.getUpperLeft().getX() + speed
 				   , this.collisionRectangle.getUpperLeft().getY());
 		   this.collisionRectangle = new Rectangle (newUpperLeft, this.collisionRectangle.getWidth()
